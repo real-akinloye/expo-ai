@@ -1,0 +1,7 @@
+{
+  "name": "AI Interview Co-Pilot",
+  "description": "An AI-powered interview assistant that listens to questions in real-time and provides you with concise, intelligent answers to help you ace your interview.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
